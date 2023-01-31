@@ -1,22 +1,10 @@
-# 6도그마 프로젝트 Repository
+# 크로메이트 도금 양불 판정 서비스 Repository
 
 <br>
 
 <br><br>
 
-# 1. 개인 디렉터리 방안
-
-<br>
-
-디렉터리는 본인 이름의 이니셜을 따서 개인화 합니다.
-
-> ex. 오찬해 => och/python.py , och/java.java ...
-
-개인 디렉터리는 원하는 파일을 저장하면 되지만 무거운 파일은 올리지 않습니다.
-
-<br><br>
-
-# 2. Issue 작성법
+## ※ Issue 작성법
 
 <br>
 
@@ -36,7 +24,7 @@ Issue를 작성할 때는 제목에 반드시 태그를 작성 합니다. 태그
 
 <br><br>
 
-# 3. .gitignore 활용
+## ※ .gitignore 활용
 
 <br>
 
